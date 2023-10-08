@@ -1,11 +1,20 @@
 import logo from './logo.svg';
 import './App.css';
-import Form from './Comonants/Form';
+import Song from './Componants/Songs';
+// import SoundToString from './Componants/SoundToString';
+import SpeechRecognitionComponent from './Componants/SoundToString';
+import Chat from './Componants/Chat';
+
 
 function App() {
+  // console.log(<Song/>)
   return (
     <div className="App">
-     <Form />
+   <h1 className="text-3xl font-bold underline">
+      Hello world!
+    </h1>
+   {/* <SpeechRecognitionComponent/> */}
+   {/* <Chat/> */}
     </div>
   );
 }

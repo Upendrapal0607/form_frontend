@@ -1,0 +1,185 @@
+{
+  "songs": [
+    {
+      "title": "Hone Laga Mp3 Song",
+      "audio": "https://pagalworld4u.in/download/get.php?id=Hone%20Laga%20Song%20Jubin%20Nautiyal.mp3",
+      "avatar": "https://pagalworld4u.in/wp-content/uploads/2021/11/Hone-Laga-Song-Download-Mp3-Jubin-Nautiyal-ANTIM-The-Final-Truth.jpg",
+      "id": 1,
+      "artist":"Jubin Nautiyal",
+      "genre":"Indian_Hip_Hop",
+      "language":"Hindi"
+    },
+    {
+      "title": "Meri Jaane Man Mp3 Song",
+      "audio": "https://pagalworld4u.in/download/get.php?id=Meri%20Jaane%20Man%20Song%20Kushi.mp3&yt=M8dGXb-GEKw",
+      "avatar": "https://pagalworld4u.in/wp-content/uploads/2023/09/Meri-Jaane-Man-Lyrics-Nakash-Aziz-Wo-Lyrics.jpg",
+      "id": 2,
+      "artist":"Nakash Aziz",
+      "genre":"Hindi romantic song",
+      "language":"Hindi"
+    },
+    {
+      "title": "Aararaari Raaro Song",
+      "audio": "https://pagalworld4u.in/download/get.php?id=Aararaari%20Raaro%20Song%20Jawan.mp3&yt=cTtUOtiVUXQ",
+      "avatar": "https://pagalworld4u.in/wp-content/uploads/2023/10/Aararaari-Raaro-Lyrics-Wo-Lyrics.jpg",
+      "id": 3,
+      "artist":"Dipti Suresh",
+      "genre":"Hindi motivation song",
+      "language":"Hindi"
+    },
+    {
+      "title": "Kali Raat Mp3 Song",
+      "audio": "https://pagalworld4u.in/download/get.php?id=Kali%20Raat%20Song%20TURBO.mp3&yt=Gtq33y5GA4Q",
+      "avatar": "https://pagalworld4u.in/wp-content/uploads/2023/10/Kali-Raat-Lyrics-Zaw-Ali-Wo-Lyrics.jpg",
+      "id": 4,
+      "artist":"Zow Ali",
+      "genre":"Sad song",
+      "language":"Hindi"
+    },
+    {
+      "title": "Mere Piyaa Ki Fitratt Mp3 Song",
+      "audio": "https://pagalworld4u.in/download/get.php?id=Mere%20Piyaa%20Ki%20Fitratt%20Song%20Himesh%20Reshammiya,%20Neelanjana%20Ray.mp3&yt=BVhvlVtqi2U",
+      "avatar": "https://pagalworld4u.in/wp-content/uploads/2023/09/Mere-Piyaa-Ki-Fitratt-Lyrics-Himesh-Reshammiya-Neelanjana-Ray-Wo-Lyrics.jpg",
+      "id": 5,
+      "artist":"Himesh Reshammiya, Neelanjana Ray",
+      "genre":"Classical",
+      "language":"Hindi"
+    },
+    {
+      "title": "ARTHUR ROAD Mp3 wrape Song",
+      "audio": "https://pagalworld4u.in/download/get.php?id=ARTHUR%20ROAD%20Song%20LOKA.mp3&yt=2fTAQ2iD8oc",
+      "avatar": "data:image/jpeg;base64,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",
+      "id": 6,
+      "artist":"Loka",
+      "genre":"Classical Wrape" ,
+      "language":"Hindi"
+    },
+   
+    {
+      "title": "Kaise Bataaoon Mp3 Song",
+      "audio": "https://pagalworld4u.in/download/get.php?id=Kaise%20Bataaoon%20Song%20KK,%20Sonal%20Chauhan.mp3&yt=aIKoGxF-7QU",
+      "avatar": "https://pagalworld4u.in/wp-content/uploads/2023/07/Kaise-Bataaoon-Lyrics-KK-Sonal-Chauhan-Wo-Lyrics.jpg",
+      "id": 7,
+      "artist":"KK, Sonal Chauhan",
+      "genre":"Indian_Hip_Hop",
+      "language":"Hindi"
+    },
+    {
+      "title": "Tumse Millte Mp3 Song",
+      "audio": "https://pagalworld4u.in/download/get.php?id=Tumse%20Millte.mp3&yt=j3RKLTX1qU4",
+      "avatar": "https://pagalworld4u.in/wp-content/uploads/2023/03/Tumse-Millte-Lyrics-Sreerama-Chandra-Wo-Lyrics.jpg",
+      "id": 8,
+      "artist":"Sreerama Chandra",
+      "genre":"Classical",
+      "language":"Hindi"
+    },
+    {
+      "title": "Tere Liye Jeete Hain Mp3",
+      "audio": "https://pagalworld4u.in/download/get.php?id=Tere%20Liye%20Jeete%20Hain%20Song%20Shahid%20Mallya,%20Tripti%20Shakya.mp3&yt=T9u-SgbNKSg",
+      "avatar": "https://pagalworld4u.in/wp-content/uploads/2023/02/Tere-Liye-Jeete-Hain-Lyrics-Shahid-Mallya-Tripti-Shakya-Wo-Lyrics.jpg",
+      "id": 9,
+      "artist":"Shahid Mallya, Tripti Shakya",
+      "genre":"Indian_Hip_Hop",
+      "language":"Hindi"
+    },
+    {
+      "title": "Lute Gaye",
+      "audio": "https://pagalworld4u.in/download/get.php?id=Lut%20Gaye%20Song%20Jubin%20Nautiyal.mp3",
+      "avatar": "https://pagalworld4u.in/wp-content/uploads/2021/12/Lut-Gaye-Song-Download-Mp3-Jubin-Nautiyal.jpg",
+      "id": 10,
+      "artist":"Jubin Nautiyal",
+      "genre":"Classical",
+      "language":"Hindi"
+    },
+    {
+      "title": "Tu Mera Hogaya Hai Mp3 Song",
+      "audio": "https://pagalworld4u.in/download/get.php?id=Tu%20Mera%20Hogaya%20Hai%20Song%20Jubin%20Nautiyal.mp3",
+      "avatar": "https://pagalworld4u.in/wp-content/uploads/2021/11/Tu-Mera-Hogaya-Hai-Song-Download-Mp3-Jubin-Nautiyal-Tadap.jpg",
+      "id": 11,
+      "artist":"Jubin Nautiyal",
+      "genre":"Classical",
+      "language":"Hindi"
+    },
+    {
+      "title": "O Mere Channa Ve Mp3 Song",
+      "audio": "https://pagalworld4u.in/download/get.php?id=O%20Mere%20Channa%20Ve%20Song%20Shaan,%20Himesh%20Reshammiya.mp3",
+      "avatar": "https://pagalworld4u.in/wp-content/uploads/2021/11/O-Mere-Channa-Ve-Song-Download-Mp3-Shaan-Himesh-Reshammiya.jpg",
+      "id": 12,
+      "artist":"Shaan, Himesh Reshammiya",
+      "genre":"Genre",
+      "language":"Hindi"
+    },
+    {
+      "title": "Laal Hari Peeli Choodiyan Mp3 Song",
+      "audio": "https://pagalworld4u.in/download/get.php?id=Laal%20Hari%20Peeli%20Choodiyan%20Song%20Arunita%20Kanjilal.mp3",
+      "avatar": "https://pagalworld4u.in/wp-content/uploads/2021/11/Laal-Hari-Peeli-Choodiyan-Song-Download-Mp3-Arunita-Kanjilal.jpg",
+      "id": 13,
+      "artist":"Arunita Kanjilal",
+      "genre":"Genre",
+      "language":"Hindi"
+    },
+    {
+      "title": "Mehendi Ka Ranng mp3 Song",
+      "audio": "https://pagalworld4u.in/download/get.php?id=Mehendi%20Ka%20Ranng%20Studio%20Version%20Song%20Nihal%20Tauro,%20Sayli%20Kamble.mp3",
+      "avatar": "https://pagalworld4u.in/wp-content/uploads/2021/11/Mehendi-Ka-Ranng-Studio-Version-Song-Download-Mp3-Nihal-Tauro-Sayli-Kamble-Himesh-Ke-Dil-Se-The.jpg",
+      "id": 14,
+      "artist":"Nihal Tauro, Sayli Kamble",
+      "genre":"Classical",
+      "language":"Hindi"
+    },
+    {
+      "title": "Ek Pal Bhi Tummse Door 2.0 Mp3 Song",
+      "audio": "https://pagalworld4u.in/download/get.php?id=Ek%20Pal%20Bhi%20Tummse%20Door%202.0%20Song%20Himesh%20Reshammiya,%20Rishi%20Singh.mp3&yt=hTlqgPJrOww",
+      "avatar": "https://pagalworld4u.in/wp-content/uploads/2023/07/Ek-Pal-Bhi-Tummse-Door-2.0-Lyrics-Himesh-Reshammiya-Rishi-Singh-Wo-Lyrics.jpg",
+      "id": 15,
+      "artist":"Himesh Reshammiya, Rishi Singh",
+      "genre":"Classical",
+      "language":"Hindi"
+    },
+    {
+      "title": "Bakhuda Mp3 Song",
+      "audio": "https://pagalworld4u.in/download/get.php?id=Bakhuda%20Song%20Arpita%20Chakraborty.mp3&yt=AxMFdF9_GBE",
+      "avatar": "https://pagalworld4u.in/wp-content/uploads/2023/07/Bakhuda-Lyrics-Arpita-Chakraborty-Wo-Lyrics.jpg",
+      "id": 16,
+      "artist":"Arpita Chakraborty",
+      "genre":"Classical",
+      "language":"Hindi"
+    },
+    {
+      "title": "Wonder Mp3 Song",
+      "audio": "https://pagalworld4u.in/download/get.php?id=Wonder.mp3&yt=nB9OfQwOlcM",
+      "avatar": "https://pagalworld4u.in/wp-content/uploads/2023/04/Wonder-Lyrics-Mercy-Chinwo-Wo-Lyrics.jpg",
+      "id": 17,
+      "artist":"Mercy Chinwo",
+      "genre":"Classical",
+      "language":"English"
+    },
+    {
+      "title": "Our Song Mp3 Song",
+      "audio": "https://pagalworld4u.in/download/get.php?id=Our%20Song.mp3&yt=Y9hyk7PPJpM",
+      "avatar": "https://pagalworld4u.in/wp-content/uploads/2023/02/Our-Song-Lyrics-Ella-Mai-Wo-Lyrics.jpg",
+      "id": 18,
+      "artist":"Ella Mai",
+      "genre":"Classical",
+      "language":"English"
+    },
+    {
+      "title": "Favorite Song Mp3 Song",
+      "audio": "https://pagalworld4u.in/download/get.php?id=Favorite%20Song.mp3&yt=9rCbCvwegSk",
+      "avatar": "https://pagalworld4u.in/wp-content/uploads/2023/03/Favorite-Song-Lyrics-Toosii-Wo-Lyrics-2.jpg",
+      "id": 19,
+      "artist":"Toosii",
+      "genre":"Classical",
+      "language":"English"
+    },
+    {
+      "title": "Favorite Song Mp3 Song",
+      "audio": "https://pagalworld4u.in/download/get.php?id=Nonsense.mp3&yt=B0VHcBJOLAA",
+      "avatar": "https://pagalworld4u.in/wp-content/uploads/2023/03/Favorite-Song-Lyrics-Toosii-Wo-Lyrics-2.jpg",
+      "id": 20,
+      "artist":"Sabrina Carpenter",
+      "genre":"Classical",
+      "language":"English"
+    }
+  ]
+}
